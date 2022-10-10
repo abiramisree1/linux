@@ -13,3 +13,7 @@
 # Logout a specific user
   
 > sudo pkill -9 -u <user_name>
+
+# List All Users
+  
+> finger
